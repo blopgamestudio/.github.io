@@ -1,4 +1,4 @@
-// Matrix effect
+// ici scipt
 const matrixCanvas = document.getElementById('matrix');
 const matrixCtx = matrixCanvas.getContext('2d');
 
